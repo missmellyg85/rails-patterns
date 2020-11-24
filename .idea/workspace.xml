@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede3f608-9363-4bd2-85f9-89c643a633ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/patterns/_patterns.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/shared/patterns/_header.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/patterns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/patterns.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mailers/application_mailer.rb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/_patterns.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/_patterns.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/patterns/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/patterns/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/new.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/patterns/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/shared/patterns/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/shared/patterns/_header.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606235975435</updated>
-      <workItem from="1606235977552" duration="2461000" />
+      <workItem from="1606235977552" duration="4176000" />
     </task>
     <servers />
   </component>

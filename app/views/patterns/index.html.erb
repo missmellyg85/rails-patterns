@@ -1,8 +1,5 @@
 <%= render layout: 'patterns' do %>
-  <h1>Patterns Index</h1>
-  <div>
-    <%= link_to 'New Pattern', new_pattern_path %>
-  </div>
+  <h2>Patterns Index</h2>
   <div>
     <% @patterns.each do |pattern| %>
       <div><%= pattern.name %> by <%= pattern.brand %> <%= link_to 'details', pattern_path(pattern) %></div>
