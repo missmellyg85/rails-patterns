@@ -1,2 +1,4 @@
-<h1><%= @pattern.name %></h1>
-<h2>By <%= @pattern.brand %></h2>
+<%= render layout: 'patterns' do %>
+  <h1><%= @pattern.name %></h1>
+  <h2>By <%= @pattern.brand %></h2>
+<% end %>

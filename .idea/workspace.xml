@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede3f608-9363-4bd2-85f9-89c643a633ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/views/patterns/_patterns.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/patterns/_header.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/show.html.erb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +25,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/shared/patterns" />
+      <recent name="$PROJECT_DIR$/app/views/patterns" />
+      <recent name="$PROJECT_DIR$/app/views/patterns/layouts" />
+      <recent name="$PROJECT_DIR$/app/views/layouts" />
+      <recent name="$PROJECT_DIR$/app/views/shared" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606235975435</updated>
-      <workItem from="1606235977552" duration="1030000" />
+      <workItem from="1606235977552" duration="2461000" />
     </task>
     <servers />
   </component>
