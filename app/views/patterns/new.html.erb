@@ -1,0 +1,14 @@
+<h1>Add a new pattern</h1>
+<%= form_with scope: :pattern, url: patterns_path, local: true do |form| %>
+  <div>
+    <%= form.label :name %><br>
+    <%= form.text_field :name %>
+  </div>
+  <div>
+    <%= form.label :brand %><br>
+    <%= form.text_field :brand %>
+  </div>
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>
