@@ -6,8 +6,7 @@
       <%= form.text_field :name %>
     </div>
     <div>
-<!--      <%#= form.label :brand %><br>-->
-      <%#= form.text_field :brand %>
+        <%= collection_select(:pattern, :brand_id, Brand.all, :id, :name) %>
     </div>
     <div>
       <%= form.submit %>

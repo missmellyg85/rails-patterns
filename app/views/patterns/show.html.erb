@@ -1,4 +1,6 @@
 <%= render layout: 'patterns' do %>
   <h2><%= @pattern.name %></h2>
-<!--  <h3>By <%#= @pattern.brand %></h3>-->
+  <% if @pattern.brand.try :name %>
+    <h3>By <%= @pattern.brand.name %></h3>
+  <% end %>
 <% end %>

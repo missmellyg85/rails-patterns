@@ -1,3 +1,3 @@
 class Pattern < ApplicationRecord
-  has_one :brand
+  belongs_to :brand
 end
