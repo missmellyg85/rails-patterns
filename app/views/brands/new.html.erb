@@ -1,0 +1,12 @@
+<%= render layout: 'patterns' do %>
+  <h2>Add a new brand</h2>
+  <%= form_with scope: :brand, url: brands_path, local: true do |form| %>
+    <div>
+      <%= form.label :name %><br>
+      <%= form.text_field :name %>
+    </div>
+    <div>
+      <%= form.submit %>
+    </div>
+  <% end %>
+<% end %>

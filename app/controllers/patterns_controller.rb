@@ -7,7 +7,7 @@ class PatternsController < ApplicationController
   end
 
   def create
-    @pattern = Pattern.new(params.require(:pattern).permit(:name,:brand))
+    @pattern = Pattern.new(params.require(:pattern).permit(:name))
     @pattern.save
     redirect_to @pattern
   end

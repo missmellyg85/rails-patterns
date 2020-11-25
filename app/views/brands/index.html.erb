@@ -1,0 +1,8 @@
+<%= render layout: 'patterns' do %>
+  <h2>All Brands</h2>
+  <div>
+    <% @brands.each do |brand| %>
+      <div><%= brand.name %></div>
+    <% end %>
+  </div>
+<% end %>

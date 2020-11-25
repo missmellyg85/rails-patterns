@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede3f608-9363-4bd2-85f9-89c643a633ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/brands/_patterns.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/pattern.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/pattern.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/patterns_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/patterns_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/brand.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/brand.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/patterns/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/patterns/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/shared/patterns/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/shared/patterns/_header.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/patterns.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/patterns.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/brands" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,12 +52,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/brands" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/layouts" />
+      <recent name="$PROJECT_DIR$/app/views" />
       <recent name="$PROJECT_DIR$/app/views/shared/patterns" />
       <recent name="$PROJECT_DIR$/app/views/patterns" />
       <recent name="$PROJECT_DIR$/app/views/patterns/layouts" />
-      <recent name="$PROJECT_DIR$/app/views/layouts" />
-      <recent name="$PROJECT_DIR$/app/views/shared" />
     </key>
   </component>
   <component name="RunDashboard">

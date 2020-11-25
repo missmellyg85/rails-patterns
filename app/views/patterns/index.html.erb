@@ -2,7 +2,7 @@
   <h2>Patterns Index</h2>
   <div>
     <% @patterns.each do |pattern| %>
-      <div><%= pattern.name %> by <%= pattern.brand %> <%= link_to 'details', pattern_path(pattern) %></div>
+      <div><%= pattern.name %>  <%= link_to 'details', pattern_path(pattern) %></div>
     <% end %>
   </div>
 
